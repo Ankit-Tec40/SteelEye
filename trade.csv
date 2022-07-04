@@ -1,0 +1,11 @@
+trade_id,asset_class,counterparty,instrument_id,instrument_name,trade_date_time,trader
+1,,,AMZN,a,2019-01-01,aman
+2,,,AAPL,a,2020-05-01,shivam
+3,,,TSLA,a,2020-06-01,sashi
+4,,,AMZN,a,2022-01-01,shiva
+5,,,AAPL,a,2021-07-01,sakshi
+6,,,AMZN,a,2021-09-01,sonu
+7,,,AAPL,a,2022-01-01,saksham
+8,,,AMZN,a,2022-04-01,shravan
+9,,,TSLA,a,2022-05-01,abhinish
+10,,,AAPL,a,2022-06-01,anit
